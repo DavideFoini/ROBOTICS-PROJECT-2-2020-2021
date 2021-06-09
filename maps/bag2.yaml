@@ -1,4 +1,4 @@
-image: map.pgm
+image: bag2.pgm
 resolution: 0.050000
 origin: [-20.000000, -31.200000, 0.000000]
 negate: 0
