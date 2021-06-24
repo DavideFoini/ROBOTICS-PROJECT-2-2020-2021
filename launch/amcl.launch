@@ -20,7 +20,4 @@
     <arg name="initial_pose_a" value="$(arg initial_pose_a)"/>
   </include>
 
-
-  <!--  **************** Visualisation ****************  -->
-  <!-- <node name="rviz" pkg="rviz" type="rviz" args="-d $(find nav2d_conf)/rviz/robot_navigation.rviz"/> -->
 </launch>
